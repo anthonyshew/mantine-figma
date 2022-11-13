@@ -1,5 +1,7 @@
 # The (unofficial) Mantine Figma library
 
+[Click here to check it out.](https://www.figma.com/community/file/1067173247578645134)
+
 Developers love Mantine. Let's make sure designers do, too.
 
 ![Mantine library header](https://repository-images.githubusercontent.com/327628682/fda316b2-0465-4a13-a63a-d90f1ccbc7cc)
