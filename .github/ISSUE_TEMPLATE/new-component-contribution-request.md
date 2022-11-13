@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Link to Mantine component**
+**Link to desired Mantine component**
 A link goes here. 🙂
 
 **Your contribution**
