@@ -11,4 +11,7 @@ assignees: ''
 A link goes here. 🙂
 
 **Your contribution**
-A **publically available** link to your Mantine file.
+A link to your Mantine file.
+
+My contribution is:
+[ ] - Publically available
