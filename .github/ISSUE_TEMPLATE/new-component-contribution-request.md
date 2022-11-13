@@ -1,5 +1,5 @@
 ---
-name: New Component Contribution/Request
+name: New component contribution/request
 about: Suggest the addition of a component
 title: ''
 labels: enhancement
