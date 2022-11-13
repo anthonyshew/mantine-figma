@@ -14,4 +14,4 @@ A link goes here. 🙂
 A link to your Mantine file.
 
 My contribution is:
-[ ] - Publically available
+- [ ] Publically available
